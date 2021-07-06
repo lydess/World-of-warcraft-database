@@ -1,3 +1,5 @@
 - Multithread the application, consecutive VMs in a cloud hosted enviournment is far to expensive and wasteful
 - provide better user experience when using the CLI
 - Resarch a GUI version?
+
+- cohesivly integrate Database backend, mabye provide a pre-packaged solution
